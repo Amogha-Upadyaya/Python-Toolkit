@@ -33,7 +33,7 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 ## Credits
 - [Scapy](https://scapy.net/) - A powerful interactive packet manipulation program.
 - [PyQt5](https://riverbankcomputing.com/software/pyqt/intro) - A set of Python bindings for the Qt application framework.
-- A special thanks to my mentor, Mr. Mir Junaid Rasool, for his guidance in the completion of the project. I also thank the contributors and developers of the libraries used in this toolkit.
+- A special thanks to my mentor, Mr. [Mir Junaid Rasool](https://github.com/Mir-Junaid-Rasool), for his guidance in the completion of the project. I also thank the contributors and developers of the libraries used in this toolkit.
 
 ## Additional Documentation
 For more detailed documentation and resources, please refer to the [Wiki](https://github.com/your-username/your-repository/wiki) section of the project repository.
