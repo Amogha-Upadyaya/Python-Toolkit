@@ -35,9 +35,6 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 - [PyQt5](https://riverbankcomputing.com/software/pyqt/intro) - A set of Python bindings for the Qt application framework.
 - A special thanks to my mentor, Mr. [Mir Junaid Rasool](https://github.com/Mir-Junaid-Rasool), for his guidance in the completion of the project. I also thank the contributors and developers of the libraries used in this toolkit.
 
-## Additional Documentation
-For more detailed documentation and resources, please refer to the [Wiki](https://github.com/your-username/your-repository/wiki) section of the project repository.
-
 ## Brief Description of Code/Program Files
 1. `main.py`: Python script for the main application interface using PyQt5 to provide a GUI for selecting various network security analysis tasks.
 2. `ip_domain_analysis.py`: Python script for IP Domain Analysis, including functions to retrieve IP address from domain names.
